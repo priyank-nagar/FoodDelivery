@@ -1,0 +1,51 @@
+body {
+    background: url("C:\\Users\\ujjain\\Desktop\\Image\\bgi4.jpg")
+}
+
+.main {
+    background-color: rgb(226, 223, 218); 
+    border-color: black  ; 
+    width:25%; 
+    font-size: 20px;
+    margin-left: 40%;
+}
+
+.sign_up_form_header {
+    background-color: azure; border:rgb(204, 52, 52); 
+    border-radius: 4px; 
+    text-align:center ; padding: 20px; 
+    font-family:sans-serif;
+    text-decoration: underline;
+}
+
+.sign_up_form_subheader {
+    background-color: bisque; 
+    border:brown; 
+    border-radius: 3px; 
+    text-align:center ; 
+    padding: 20px; 
+    font-family:sans-serif;
+}
+
+#sign_up_content {
+    text-align:center;
+}
+
+.sign_up_content_labels {
+    font-family:sans-serif; 
+    font-size:15px ; 
+    font-style: italic; 
+}
+
+#submit {
+    width:200px; 
+    padding:8px; 
+    font-size: 20px; 
+    font-weight: 500; 
+    border:5px; 
+    border-radius: 4px; 
+    background-color: rgb(253, 244, 160); 
+    color:solid rgb(255, 196, 174); 
+    cursor: pointer; 
+    box-shadow: 2px 2px 2px; 
+ }
