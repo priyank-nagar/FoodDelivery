@@ -1,2 +1,0 @@
-ARCHITECHRTURE OF FOODIES
-Food delivery App 
